@@ -18,9 +18,9 @@ This project is a simple blogging platform where users can view, create, and man
 
 ### Features
 
-    - **Blog Viewing**: Users can browse through existing blogs, each displaying a title, content, and relevant metadata.
-    - **Blog Creation**: Users can create new blog posts by entering a title, content, and other optional fields like tags or categories.
-    - **User-Friendly Interface**: The platform is designed to be intuitive, providing a seamless experience for both readers and writers.
+- **Blog Viewing**: Users can browse through existing blogs, each displaying a title, content, and relevant metadata.
+- **Blog Creation**: Users can create new blog posts by entering a title, content, and other optional fields like tags or categories.
+- **User-Friendly Interface**: The platform is designed to be intuitive, providing a seamless experience for both readers and writers.
 
 ### Installation
 
