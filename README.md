@@ -33,7 +33,7 @@ This project is a simple blogging platform where users can view, create, and man
 2. Navigate to the project directory:
 
    ```bash
-    cd house-home
+    cd blogger
    ```
 
 3. Install the dependencies:
